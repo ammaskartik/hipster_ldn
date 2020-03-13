@@ -9,8 +9,10 @@
   "author": "",
   "license": "",
   "dependencies": {
+    "@types/mongodb": "^3.5.2",
     "@types/node": "^12.7.4",
     "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.5.5",
     "node-fetch": "^2.6.0",
     "uuid": "^3.3.3"
   },
