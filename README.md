@@ -8,10 +8,10 @@ Master monorepo for the Hipster London App, backend, and ML/Data Pipeline.
 * Allow users to click regions?
 * Basic Auth?
 * Ingest London MSA multi-polygon into Mongo
-* Ingest London Boroughs
-* Ingest London PostCodes
-* Ingest Basic Demographics
-* Ingest Basic Crime data
+* Ingest London Boroughs if possible
+* Ingest London PostCodes if possible
+* Ingest Basic Demographics if possible
+* Ingest Basic Crime data if possible
 * Ingest Landmarks & other Open Street map data
 * Spatially index data in Mongo
 * Serve London Map, and query basic data/stats by clickable Region? Or Zoom bounding boxes
