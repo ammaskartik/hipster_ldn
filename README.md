@@ -17,3 +17,5 @@ Master monorepo for the Hipster London App, backend, and ML/Data Pipeline.
 * Ingest Landmarks & other Open Street map data
 * Spatially index data in Mongo
 * Serve London Map, and query basic data/stats by clickable Region? Or Zoom bounding boxes
+
+We will use `ldnshapes` and `ldnfeatures` as the collections.
