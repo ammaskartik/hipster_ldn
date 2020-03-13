@@ -2,6 +2,8 @@
 
 Master monorepo for the Hipster London App, backend, and ML/Data Pipeline.
 
+`Please refer to infrastructure directory for README instructions`
+
 ## Phase 1
 
 * Vue based Web App to display map + features.
